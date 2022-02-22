@@ -1,0 +1,21 @@
+#cssgud{
+  background-color: rgb(18, 196, 127);
+  border: none;
+  border-radius: 5px;
+  padding: 9px;
+  width: 7rem;
+  color: #fff;
+}
+#cssgud:hover{
+  background-color: rgb(19, 170, 112);
+  transition:  all 0.2s;
+  transform: scaley(1.04);
+}
+.black{
+  color: #fff;
+  /* padding:8px */
+}
+.black:hover{
+  background-color: rgb(73, 72, 72);
+  color: #fff;
+}
